@@ -7,7 +7,7 @@ author:
   name: Sesanti Nandi Pribadi
   picture: "/assets/blog/authors/jj.jpeg"
 ogImage:
-  url: "/assets/blog/dynamic-routing/cover.jpg"
+  url: "/assets/blog/apakah-private-tutor-efektif-untuk-tunjang-pendidikan-1687443194/cover.png"
 ---
 
 Jawabannya, tentu saja iya.
