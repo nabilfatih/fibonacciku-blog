@@ -16,15 +16,15 @@ Dihadapkan dengan setidaknya tujuh mata pelajaran wajib dan empat mata pelajaran
 
 Salah satu dari berbagai cara yang kerap kali jadi pilihan adalah mencari private tutor sebagai guru tambahan mereka di luar jam sekolah. Metode yang satu ini dinilai efektif atas dasar beberapa faktor:
 
-**1. Pendekatan yang Personal**
+## **1. Pendekatan yang Personal**
 
 Dibandingkan dengan ruang kelas yang bisa saja diisi oleh lebih dari 30 siswa, belajar hanya bersama dengan seorang guru tentu saja menjadi sebuah privilese. Pendekatan yang lebih personal membuat siswa dapat lebih fokus dalam belajar dan dapat menyesuaikan cara belajar atau pun materi belajar yang ingin dipelajari sesuai dengan preferensinya sendiri.
 
-**2. Fleksibilitas Waktu**
+## **2. Fleksibilitas Waktu**
 
 Fleksibilitas sepertinya sudah menjadi kata kunci untuk hidup di zaman yang semakin modern ini. Untuk seorang siswa, setelah mengikuti serangkaian program sekolah yang kaku dan struktural, memiliki fleksibilitas dalam menjalani kegiatan di luar sekolah tentu akan sangat menyenangkan.
 
-**3. Meningkatkan Percaya Diri**
+## **3. Meningkatkan Percaya Diri**
 
 Percaya diri kerap menjadi kendala siswa dalam mengembangkan potensi dirinya sepenuhnya. Contoh kecil yang sering terjadi adalah siswa malu untuk bertanya di kelas, utamanya karena ia tidak ingin menarik perhatian terlalu banyak orang. Belajar bersama private tutor akan membantu mereka meningkatkan rasa percaya diri dalam mengajukan pertanyaan dengan membangun kebiasaan tersebut ketika belajar.
 
