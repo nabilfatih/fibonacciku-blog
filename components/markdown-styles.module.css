@@ -9,6 +9,14 @@
   @apply my-6;
 }
 
+.markdown blockquote {
+  @apply border-l-4 border-primary pl-4;
+}
+
+.markdown blockquote p {
+  @apply bg-primary p-2 bg-opacity-10 rounded-md;
+}
+
 .markdown a {
   @apply link link-accent;
 }
