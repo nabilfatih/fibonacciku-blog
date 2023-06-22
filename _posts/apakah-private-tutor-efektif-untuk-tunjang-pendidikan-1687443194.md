@@ -5,7 +5,7 @@ coverImage: "/assets/blog/apakah-private-tutor-efektif-untuk-tunjang-pendidikan-
 date: "2023-06-22T14:16:06.817Z"
 author:
   name: Sesanti Nandi Pribadi
-  picture: "/assets/blog/authors/jj.jpeg"
+  picture: "/assets/blog/authors/nandi.jpg"
 ogImage:
   url: "/assets/blog/apakah-private-tutor-efektif-untuk-tunjang-pendidikan-1687443194/cover.png"
 ---
