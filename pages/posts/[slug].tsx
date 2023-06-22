@@ -30,7 +30,7 @@ export default function Post({ post, morePosts, preview }: Props) {
           <PostTitle>Loading…</PostTitle>
         ) : (
           <>
-            <article className="mb-32">
+            <article className="mb-32 mt-16">
               <NextSeo
                 title={`${post.title} | Blog - FibonacciKu`}
                 description={post.excerpt}
