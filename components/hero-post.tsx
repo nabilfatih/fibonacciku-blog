@@ -6,6 +6,7 @@ import type Author from "../interfaces/author";
 
 type Props = {
   title: string;
+  theme: string;
   coverImage: string;
   date: string;
   excerpt: string;
@@ -15,6 +16,7 @@ type Props = {
 
 const HeroPost = ({
   title,
+  theme,
   coverImage,
   date,
   excerpt,
@@ -37,6 +39,7 @@ const HeroPost = ({
               {title}
             </Link>
           </h3>
+          <span className="mb-4 md:mb-0 text-lg font-medium">{theme}</span>
           <div className="mb-4 md:mb-0 text-lg">
             <DateFormatter dateString={date} />
           </div>

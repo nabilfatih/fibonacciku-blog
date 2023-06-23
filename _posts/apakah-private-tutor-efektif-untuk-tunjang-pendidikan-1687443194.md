@@ -1,5 +1,6 @@
 ---
 title: "Apakah Private Tutor Efektif untuk Tunjang Pendidikan?"
+theme: "Education"
 excerpt: "Apakah Private Tutor Efektif untuk Tunjang Pendidikan? Beberapa faktor seperti fleksibilitas dan pendekatan yang personal dinilai sebagai dasar keefektifan pendidikan non-formal layaknya private tutor untuk menunjang pendidikan di Indonesia. Lalu, jika memang efektif, apakah private tutor juga dapat dengan mudah dijangkau oleh semua siswa?"
 coverImage: "/assets/blog/apakah-private-tutor-efektif-untuk-tunjang-pendidikan-1687443194/cover.png"
 date: "2023-06-22T14:16:06.817Z"

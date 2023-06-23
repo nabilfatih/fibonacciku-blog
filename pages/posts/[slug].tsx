@@ -51,6 +51,7 @@ export default function Post({ post, morePosts, preview }: Props) {
               />
               <PostHeader
                 title={post.title}
+                theme={post.theme}
                 coverImage={post.coverImage}
                 date={post.date}
                 author={post.author}
@@ -73,6 +74,7 @@ type Params = {
 export async function getStaticProps({ params }: Params) {
   const post = getPostBySlug(params.slug, [
     "title",
+    "theme",
     "date",
     "slug",
     "author",
